@@ -4,4 +4,6 @@ git third time  update readme.txt by version 1.3!!
 
 git four time  update readme.txt by version 1.4!!
 
+git 管理修改验证first！
+
 
